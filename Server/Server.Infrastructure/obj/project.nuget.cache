@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BXa7z62CM/T2GnLNeYz9OaJ3ZTU9q8A4R8A2RUU/+MvqcqL6Ny7CL60QZcjMM/gGAF6G+HfAUeNQzRcZ9OmmOg==",
+  "dgSpecHash": "Nn2rnPf7jWP/klun0sENcyrvUOBc49Fvsfd29rE0aR/gtp+f/uB1E7SnyBHSSY52AgkOizMLtr/fi6fiwDEaew==",
   "success": true,
   "projectFilePath": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Infrastructure\\Server.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hassa\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\hassa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\hassa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\hassa\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",
     "C:\\Users\\hassa\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
