@@ -10,3 +10,4 @@ C:\Users\hassa\Desktop\e-commerce-app\Server\Server.Domain\obj\Debug\net8.0\Serv
 C:\Users\hassa\Desktop\e-commerce-app\Server\Server.Domain\obj\Debug\net8.0\refint\Server.Domain.dll
 C:\Users\hassa\Desktop\e-commerce-app\Server\Server.Domain\obj\Debug\net8.0\Server.Domain.pdb
 C:\Users\hassa\Desktop\e-commerce-app\Server\Server.Domain\obj\Debug\net8.0\ref\Server.Domain.dll
+C:\Users\hassa\Desktop\e-commerce-app\Server\Server.Domain\obj\Debug\net8.0\Server.Domain.csproj.AssemblyReference.cache
