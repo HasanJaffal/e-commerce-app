@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45D1AB38-5B95-44AA-BB08-A96B9E5E2E43}|Server.API\\Server.API.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.api\\server.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45D1AB38-5B95-44AA-BB08-A96B9E5E2E43}|Server.API\\Server.API.csproj|solutionrelative:server.api\\server.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45D1AB38-5B95-44AA-BB08-A96B9E5E2E43}|Server.API\\Server.API.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D1AB38-5B95-44AA-BB08-A96B9E5E2E43}|Server.API\\Server.API.csproj|solutionrelative:server.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs",
-              "RelativeDocumentMoniker": "Server.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs",
-              "RelativeToolTip": "Server.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T13:41:08.104Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
@@ -52,6 +43,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.API",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Server.API.csproj",
+              "RelativeDocumentMoniker": "Server.API\\Server.API.csproj",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Server.API.csproj",
+              "RelativeToolTip": "Server.API\\Server.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T10:37:31.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs",
+              "RelativeDocumentMoniker": "Server.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs",
+              "RelativeToolTip": "Server.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:41:08.104Z",
+              "EditorCaption": ""
             }
           ]
         },
