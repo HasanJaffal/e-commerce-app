@@ -3,12 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Migrations\\20250216141126_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server.API\\Migrations\\20250216141126_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D0D8B1-152A-48D7-89E8-8576593ADDC4}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.infrastructure\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D0D8B1-152A-48D7-89E8-8576593ADDC4}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D0D8B1-152A-48D7-89E8-8576593ADDC4}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D0D8B1-152A-48D7-89E8-8576593ADDC4}|Server.Infrastructure\\Server.Infrastructure.csproj|solutionrelative:server.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0DD7CD1-9E58-49A5-93CD-78FABB6DDCC1}|Server.Domain\\Server.Domain.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DD7CD1-9E58-49A5-93CD-78FABB6DDCC1}|Server.Domain\\Server.Domain.csproj|solutionrelative:server.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hassa\\Desktop\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hassa\\Desktop\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Migrations\\20250216141126_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server.API\\Migrations\\20250216141126_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D0D8B1-152A-48D7-89E8-8576593ADDC4}|Server.Infrastructure\\Server.Infrastructure.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +51,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0DD7CD1-9E58-49A5-93CD-78FABB6DDCC1}|Server.Domain\\Server.Domain.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.domain\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DD7CD1-9E58-49A5-93CD-78FABB6DDCC1}|Server.Domain\\Server.Domain.csproj|solutionrelative:server.domain\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DD7CD1-9E58-49A5-93CD-78FABB6DDCC1}|Server.Domain\\Server.Domain.csproj|c:\\users\\hassa\\desktop\\e-commerce-app\\server\\server.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DD7CD1-9E58-49A5-93CD-78FABB6DDCC1}|Server.Domain\\Server.Domain.csproj|solutionrelative:server.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +60,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +88,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:20:23.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "..\\..\\CleanArchitectureApp\\CleanArchitecture.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:20:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20250216141126_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Migrations\\20250216141126_InitialCreate.cs",
               "RelativeDocumentMoniker": "Server.API\\Migrations\\20250216141126_InitialCreate.cs",
               "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Migrations\\20250216141126_InitialCreate.cs",
               "RelativeToolTip": "Server.API\\Migrations\\20250216141126_InitialCreate.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T14:11:26.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Server.API\\appsettings.Development.json",
@@ -108,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\appsettings.json",
               "RelativeDocumentMoniker": "Server.API\\appsettings.json",
@@ -121,12 +153,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Server.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Server.Infrastructure\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Infrastructure\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Server.Infrastructure\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Infrastructure\\Configurations\\DependencyInjection.cs*",
+              "RelativeToolTip": "Server.Infrastructure\\Configurations\\DependencyInjection.cs*",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T11:45:50.416Z",
@@ -134,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Server.Infrastructure\\Data\\AppDbContext.cs",
@@ -147,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Server.Domain\\Entities\\User.cs",
@@ -160,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "UserRoles.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Enums\\UserRoles.cs",
               "RelativeDocumentMoniker": "Server.Domain\\Enums\\UserRoles.cs",
@@ -173,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Entities\\Image.cs",
               "RelativeDocumentMoniker": "Server.Domain\\Entities\\Image.cs",
@@ -186,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Entities\\Item.cs",
               "RelativeDocumentMoniker": "Server.Domain\\Entities\\Item.cs",
@@ -199,25 +231,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Server.Domain\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Entities\\Category.cs",
               "RelativeToolTip": "Server.Domain\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T11:11:22.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs",
               "RelativeDocumentMoniker": "Server.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs",
-              "RelativeToolTip": "Server.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.API\\Program.cs*",
+              "RelativeToolTip": "Server.API\\Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T11:06:24.01Z",

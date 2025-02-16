@@ -1,4 +1,4 @@
-﻿namespace Server.Infrastructure
+﻿namespace Server.Infrastructure.Configurations
 {
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;

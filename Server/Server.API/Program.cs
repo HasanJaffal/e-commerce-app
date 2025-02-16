@@ -1,4 +1,4 @@
-using Server.Infrastructure;
+using Server.Infrastructure.Configurations;
 
 var builder = WebApplication.CreateBuilder(args);
 
