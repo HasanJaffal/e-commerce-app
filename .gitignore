@@ -1,0 +1,72 @@
+# Build and Debug
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.ilk
+*.log
+*.suo
+*.user
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*.scc
+
+# Visual Studio specific
+.vs/
+.vscode/
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swn
+
+# Logs and database files
+*.log
+*.sql
+*.sqlite
+*.db
+*.mdf
+*.ldf
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+resharper.xml
+
+# ASP.NET specific
+wwwroot/
+node_modules/
+dist/
+bower_components/
+
+# Publish output
+.publish/
+out/
+
+# Testing
+TestResults/
+*.TestResults/
+.trx
+coverage/
+*.coverage
+*.cov
+
+# Security and Credentials
+secrets.json
+appsettings.Development.json
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+.env
