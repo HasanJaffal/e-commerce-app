@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "o8+Vc9PHRYsMIBvcDoMC7KfRA4W9z/c8GPs3zhT+HehAHGorSClYEH9OeGKoDOxSAkQvC6YU8k1uM587l5vgNg==",
+  "dgSpecHash": "KueESzN922wnHyn800Ud1ZoednEokl/2xxKgYJjq6/WEKB+TmzB7HvgsUqSENUsCHkWZ6MOEXoEFxYnS5vRrnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hassa\\Desktop\\e-commerce-app\\Server\\Server.Domain\\Server.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
